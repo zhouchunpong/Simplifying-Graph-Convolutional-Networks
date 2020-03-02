@@ -4,7 +4,7 @@ A reference code for paper : [*Simplifying Graph Convolutional Networks*](http:/
 ## Usage
 Before to execute this algorithm, it is necessary to install these required packages shown in the file named ' requirements.txt '. The default dataset is Cora Network and the detail description can be found in the file data. Just execute the following command from the project home directory :
 
-    $ python train.py
+    $ python SGC.py
 
 Our implementation can match the benchmark described in the original paper and the GPU will be used if available.
 **Note: the default splits of the training set in my implementation are different from that in original papar, which you can find in the authors' code.**
