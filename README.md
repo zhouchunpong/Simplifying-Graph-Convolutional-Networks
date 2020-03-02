@@ -9,6 +9,7 @@ The default dataset is Cora Network and the detail description can be found in t
     $ python train.py
 
 Our implementation can match the benchmark described in the original paper and the GPU will be used if available.
+**Note: the default splits of the training set in my implementation are different from that in original papar, which you can find in the authors' code.**
 
 ## References 
 For a more detail explanation of the SGC, have a look at the relative  references about the SGC and vanilla GCN:
