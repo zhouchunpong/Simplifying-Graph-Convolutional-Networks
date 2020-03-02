@@ -1,7 +1,7 @@
 # Simplifying-Graph-Convolutional-Networks 简化的图神经网络 (SGC)
 A reference code for paper : [*Simplifying Graph Convolutional Networks*](http://arxiv.org/abs/1609.02907) ( **SGC** for short ) based Keras and tensorflow. 
 
-## Usage and Performance
+## Usage
 Before to execute this algorithm, it is necessary to install these required packages shown in the file named ' requirements.txt '. The default dataset is Cora Network and the detail description can be found in the file data. Just execute the following command from the project home directory :
 
     $ python train.py
